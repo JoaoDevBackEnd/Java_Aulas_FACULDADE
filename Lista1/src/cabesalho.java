@@ -9,4 +9,10 @@ public class cabesalho {
         System.out.println("6 - ATIVIDADE TROCA DE PÁPEIS\n");
         System.out.println(" 13- ENCERRA O PROGRAMA  ! ! !");
     }
+    public static String getVerficao(String validacao){
+        return validacao = 
+    }
+    void verficacao(){
+        System.out.println("Pressione Y - PARA CONTINUAR  ou R - RESETAR O EXERCÍCIO  ou F - PARA FINALIZAR !");
+    }
 }
